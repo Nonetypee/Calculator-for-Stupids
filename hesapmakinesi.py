@@ -37,7 +37,7 @@ while True:
 
 
             elif islem == 6:
-                print("Çalıştırılıyor...")
+                pass
 
 
 
