@@ -13,13 +13,12 @@ ISLEMLER
 4.DAİRE YAYI UZUNLUĞU HESAPLAMA (Pi = 3)
 5.DAİRE YAYI UZUNLUĞU HESAPLAMA (Pi = 3.14)
 6.KİNETİK ENERJİ HESAPLAMA
-7.İNTEGRAL
 """)
 
 while True:
     try:
         while True:
-            islem = int(input('Yapacağınız işlemi seçiniz (1,2,3,4,5,6,7):'))
+            islem = int(input('Yapacağınız işlemi seçiniz (1,2,3,4,5,6):'))
             if islem == 1:
                 a = int(input("Lütfen A'nın katsayısını giriniz:"))
                 b = int(input("Lütfen B'nin katsayısını giriniz:"))
