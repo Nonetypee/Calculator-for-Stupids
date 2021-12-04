@@ -24,7 +24,7 @@ def archlenght_finder_with_pi3 (r,o):
     archlenght = 2 * pi * r * (o / 360)
     return print("Yay'ın uzunluğu: {}".format(archlenght))
 
-def archlenght_finder_with_pi3 (r,o):
+def archlenght_finder_with_pi314 (r,o):
     pi = 3.14
     archlenght = 2 * pi * r * (o / 360)
     return print("Yay'ın uzunluğu: {}".format(archlenght))
