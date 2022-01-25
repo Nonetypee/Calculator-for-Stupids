@@ -51,5 +51,3 @@ def kinetic_energy_formula_finder():
         M = int(input("Kütle değerini giriniz:"))
         answer = (1 / 2) * M * (V ** 2)
         return print("EK değeri: {}".format(answer))
-    
-        
